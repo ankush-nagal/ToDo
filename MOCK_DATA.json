@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "first_name": "Axe",
+        "last_name": "Toner",
+        "email": "atoner0@dagondesign.com",
+        "gender": "Male",
+        "job_title": "Environmental Tech"
+    },
+    {
+        "id": 2,
+        "first_name": "Joyann",
+        "last_name": "Dafforne",
+        "email": "jdafforne1@i2i.jp",
+        "gender": "Female",
+        "job_title": "VP Marketing"
+    },
+    {
+        "id": 3,
+        "first_name": "Cornela",
+        "last_name": "Winwright",
+        "email": "cwinwright2@google.it",
+        "gender": "Female",
+        "job_title": "Accountant IV"
+    },
+    {
+        "id": 4,
+        "first_name": "Joelly",
+        "last_name": "Slixby",
+        "email": "jslixby3@walmart.com",
+        "gender": "Female",
+        "job_title": "VP Sales"
+    },
+    {
+        "id": 5,
+        "first_name": "Rustin",
+        "last_name": "Kubach",
+        "email": "rkubach4@globo.com",
+        "gender": "Agender",
+        "job_title": "VP Product Management"
+    },
+    {
+        "id": 6,
+        "first_name": "Maurita",
+        "last_name": "Easom",
+        "email": "measom5@ask.com",
+        "gender": "Female",
+        "job_title": "Chemical Engineer"
+    },
+    {
+        "id": 7,
+        "first_name": "Egon",
+        "last_name": "Quaif",
+        "email": "equaif6@github.com",
+        "gender": "Male",
+        "job_title": "Senior Developer"
+    },
+    {
+        "id": 8,
+        "first_name": "Cy",
+        "last_name": "Jouhandeau",
+        "email": "cjouhandeau7@google.com.au",
+        "gender": "Male",
+        "job_title": "General Manager"
+    },
+    {
+        "id": 9,
+        "first_name": "Nanny",
+        "last_name": "Grishukhin",
+        "email": "ngrishukhin8@mayoclinic.com",
+        "gender": "Female",
+        "job_title": "Automation Specialist IV"
+    }
+]
