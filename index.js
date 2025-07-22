@@ -14,8 +14,7 @@ app.use(express.json());
 //REST API
 
 //GET
-app.get('/api/users', (req, res) => {
-    res.setHeader("myName", "ankush nagal")
+app.get('/api/users', (req, res) => { 
     return res.json(users)
 })
 
